@@ -1,12 +1,36 @@
-# Support Open Computational Research
+# 🧬 Empowering Open Computational Research & Drug Discovery
 
-Welcome! Contributions directly support independent academic research, high-performance computing (GPU/CPU server hours), specialized dataset licenses, and open-access scientific publishing fees.
+Welcome! This platform supports independent computational biology, molecular docking workflows, and machine learning pipelines designed to accelerate open-access medical research.
 
 ---
 
-### 💳 Crypto Direct Contributions
+## 💡 Why Support Independent Research?
 
-For crypto-native supporters, you can transfer directly using any major network below. Scan the QR code or copy the receiving address.
+### For Non-Experts & Everyday Supporters
+Traditional academic research often relies on slow institutional grant cycles, paywalled journals, and opaque funding structures. Independent computational science breaks these barriers:
+* **Accelerating Medical Discovery:** Using computers to simulate protein-ligand interactions speeds up therapeutic research without requiring costly wet-lab iterations at early stages.
+* **100% Open Access & Open Source:** Every dataset, pipeline, and manuscript produced through this work is made freely available to researchers and the public worldwide—no subscription paywalls.
+* **Direct Impact:** Traditional grants take months to approve. Direct micro-funding immediately translates into active compute hours on cloud GPUs and servers, allowing continuous research progression.
+
+### For Scientists, Developers & Domain Experts
+Independent computational modeling demands agile compute cycles and unconstrained pipeline optimization:
+* **High-Performance Compute (HPC):** Molecular dynamics (MD) simulations, molecular docking evaluations, and structural bioinformatic model training require significant GPU infrastructure (NVIDIA A100/H100 cloud instances).
+* **Open Science & Reproducibility:** Funding supports open-access Article Processing Charges (APCs) in peer-reviewed publications and dedicated repository hosting for raw simulation trajectories and structural datasets.
+* **Unbiased & Direct:** Bypasses commercial agendas to focus purely on high-impact biological targets, biomarker validation, and small-molecule screening workflows.
+
+---
+
+## 🎯 Active Research Initiatives & Computational Focus
+
+1. **In Silico Drug Screening & Molecular Docking:** Evaluating binding affinities of novel and repurposed therapeutic ligands against disease-relevant protein targets.
+2. **Molecular Dynamics (MD) Simulations:** Studying target conformational stability, allosteric binding mechanisms, and structural kinetics in biomolecular environments.
+3. **Machine Learning for Biomarker Analysis:** Building predictive biostatistical models and regression pipelines to identify clinical disease biomarkers.
+
+---
+
+## 💳 Support via Crypto Transfer
+
+For crypto-native supporters and micro-grant contributions, direct funding can be transferred via the supported blockchain networks below. Scan the QR code or copy the receiving address.
 
 <br>
 
@@ -75,7 +99,8 @@ For crypto-native supporters, you can transfer directly using any major network 
 
 ---
 
-### 🔬 Supported Research Initiatives
-* **Computational Biochemistry & Molecular Dynamics**
-* **In Silico Drug Screening & Enzyme Targets**
-* **Machine Learning Pipelines for Medical Biomarkers**
+### 📊 Allocation Transparency
+Every contribution directly offsets:
+* **GPU Compute Instances:** Server time for high-throughput docking and molecular dynamics runs.
+* **Open-Access Publishing:** Fees required to make research papers freely downloadable worldwide.
+* **Data Hosting & Storage:** Storing high-resolution structural datasets and simulation trajectories for open scientific use.
